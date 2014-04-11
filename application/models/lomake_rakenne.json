@@ -1,0 +1,7 @@
+
+	{
+		"element": "input",
+		"label": "Etunimi",
+		"name": "lapsi_etunimi",
+		"type": "text",
+	}
